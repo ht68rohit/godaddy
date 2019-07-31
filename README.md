@@ -1,8 +1,8 @@
 # _GoDaddy_ OMG Microservice
 
 [![Open Microservice Guide](https://img.shields.io/badge/OMG%20Enabled-👍-green.svg?)](https://microservice.guide)
-[![Build Status](https://travis-ci.com/heaptracetechnology/godaddy.svg?branch=master)](https://travis-ci.com/heaptracetechnology/godaddy)
-[![codecov](https://codecov.io/gh/heaptracetechnology/godaddy/branch/master/graph/badge.svg)](https://codecov.io/gh/heaptracetechnology/godaddy)
+[![Build Status](https://travis-ci.com/omg-services/godaddy.svg?branch=master)](https://travis-ci.com/omg-services/godaddy)
+[![codecov](https://codecov.io/gh/omg-services/godaddy/branch/master/graph/badge.svg)](https://codecov.io/gh/omg-services/godaddy)
 
 
 An OMG service for godaddy, check availability for specific domain name.
